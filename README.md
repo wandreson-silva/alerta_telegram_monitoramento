@@ -216,3 +216,7 @@ Status: Usuário logado no sistema!
 
 3. Módulo pam_exec.so configurado nas linhas de auth e session dentro de /etc/pam.d/sshd.
 ```
+```text
+Nota: O instalador automatizado incluído neste repositório configura todas essas dependências de forma autônoma.
+```
+
