@@ -219,4 +219,6 @@ Status: Usuário logado no sistema!
 ```text
 Nota: O instalador automatizado incluído neste repositório configura todas essas dependências de forma autônoma.
 ```
+# Bot Telegram
 
+![Principais Comandos Linux](./telegram2.png)
